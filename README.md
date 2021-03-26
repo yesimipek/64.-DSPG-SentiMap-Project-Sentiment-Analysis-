@@ -4,6 +4,7 @@ Keras Model with Bert Features for predicting sentiment of citizens in each İst
 TR // Proje ismi: Sentimap
 
 Proje takımı:
+
 Yeşim İpek: İstanbul Teknik Üniversitesi  - İşletme Mühendisliği
 Didar Tutan: Koç Üniversitesi Felsefe ve Uluslararası İlişkiler (Lisans), Karşılaştırmalı Tarih ve Toplum Çalışmaları (Yüksek Lisans)
 Ege Zeytun: Boğaziçi Üniversitesi - Politika
@@ -18,6 +19,7 @@ EN//
 Project name: Sentimap
 
 Team: 
+
 Yeşim İpek: Istanbul Technical University  - Business Engineering
 Didar Tutan: Koç University Philosophy and International Relations, Comparative History and Society Studies (Master)
 Ege Zeytun: Boğaziçi University  - Politika
