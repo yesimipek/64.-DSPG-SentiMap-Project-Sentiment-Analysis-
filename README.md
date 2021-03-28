@@ -9,7 +9,7 @@ Yeşim İpek: İstanbul Teknik Üniversitesi  - İşletme Mühendisliği
 
 Didar Tutan: Koç Üniversitesi Felsefe ve Uluslararası İlişkiler (Lisans), Karşılaştırmalı Tarih ve Toplum Çalışmaları (Yüksek Lisans)
 
-Ege Zeytun: Boğaziçi Üniversitesi - Politika
+Ege Zeytun: Boğaziçi Üniversitesi Siyaset Bilimi ve Uluslararası İlişkiler (Lisans), George Washington  Üniversitesi Siyaset Bilimi (Yüksek Lisans)
 
 Büşra Öner: İstanbul Üniversitesi - İngilizce İşletme, Marmara Üniversitesi - Üretim Yönetimi ve Pazarlama (Yüksek Lisans)
  
@@ -23,11 +23,11 @@ Project name: Sentimap
 
 Team: 
 
-Yeşim İpek: Istanbul Technical University  - Business Engineering
+Yeşim İpek: Istanbul Technical University  - Management Engineering
 
 Didar Tutan: Koç University Philosophy and International Relations, Comparative History and Society Studies (Master)
 
-Ege Zeytun: Boğaziçi University  - Politika
+Ege Zeytun: Boğaziçi University  Political Science and International Relations (Bachelor), George Washington University Political Science (Master)
 
 Büşra Öner: İstanbul University - Business Administration, Marmara University - Production Management and Marketing (Master)
 
