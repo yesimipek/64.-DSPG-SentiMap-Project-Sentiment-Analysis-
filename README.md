@@ -37,3 +37,16 @@ About the project and results:
 During the project process, data analysis and cleaning is done. Corrected typos in the text and stripped of proper names, the data is ready for the model. After the training of sentiment analysis model with data is completed, the emotion of the Call Center applications is estimated to be negative, positive, and neutral. Outputs create SentiMap as a result of mapping district-based emotion scores.
 
 Model Accuracy : %79 avg recall ( Successful compared to Multimonial Naive Bayes Base Model Accuracy (%68) )
+
+References : 
+* For Model :  Understand Tweets Better with Bert Sentiment Analysis - Abdüllatif Köksal
+               IMDB sentiment analysis with BERT and ktrain Github Project - Arun S. Maiya
+               
+* For Pre Processing : Yemeksepeti Sentiment Analysis Kaggle Project - Ege Baştürk 
+
+* For Evaluation & Metrics : Understand Tweets Better with Bert Sentiment Analysis - Abdüllatif Köksal
+
+
+
+
+
